@@ -1,16 +1,11 @@
 #
-* Empanadas
 * Chiles en Nogada
-
-#
-* Kürbissuppe mit Zitronengras
 
 #
 * Lomo Saltado
 * Arroz con Pollo
 
 #
-* Schupfnudeln
 * Spätzle Anwendungen: Linsen mit Spätzle, Gaisburger Marsch, ....
 
 #
@@ -24,12 +19,7 @@
 * Flammkuchen, Zwiebelkuchen
 
 #
-* Taboule
 * Kartoffelsalat
-
-#
-* Guacamole
-* Mojo Rojo
 
 #
 * Kaiserschmarrn
