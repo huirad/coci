@@ -1,5 +1,6 @@
 #
 * Chiles en Nogada
+* Samoussa!!!!
 
 #
 * Lomo Saltado
@@ -27,4 +28,5 @@
 #
 * Vietnamesische Kokosschnitten
 * Blaubeermuffins / Johannisbeermuffins
-* Manni's Eis
+
+* Manni's Eis (07. Mai 2005, Cannstatter Hütte): Vanilleeis, Pinienkerne, frische Minzeblätter, Kürbiskernöl
