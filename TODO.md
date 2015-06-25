@@ -15,6 +15,7 @@
 
 #
 * Pfannkuchen
+* Quinoafrikadellen
 
 #
 * Flammkuchen, Zwiebelkuchen
@@ -27,6 +28,7 @@
 
 #
 * Vietnamesische Kokosschnitten
-* Blaubeermuffins / Johannisbeermuffins
+
+
 
 * Manni's Eis (07. Mai 2005, Cannstatter Hütte): Vanilleeis, Pinienkerne, frische Minzeblätter, Kürbiskernöl
