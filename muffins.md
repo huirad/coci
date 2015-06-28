@@ -5,7 +5,7 @@
 * 200g Träuble (rote Johannisbeeren)
 * 250g Mehl
 * Backpulver passend zur Mehlmenge (ca. eine halbe Packung)
-* 150g Zucker
+* 150g Zucker (alternativ auch Palmzucker?)
 * 1 Tütchen Vanillezucker
 * 150ml(g) Milch oder Buttermilch oder Joghurt ...
 * 1 Ei
