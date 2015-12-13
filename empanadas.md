@@ -18,7 +18,7 @@ Der Mürbteig wird außen fest und hält innen noch die Feuchtigkeit der Füllun
 ## Füllung
 Eigentlich geht fast alles. Die Kassiker sind Carne, Pollo, Queso. 
 
-Beispiele:
+Beispiele (eher grosszügig bemessen für die Teigmenge mit 300g Mehl):
 * 200g Rindfleisch in kleinen Würfeln gebraten, gedünstete Zwiebel+Paprika
 * 200g rohes Hackfleisch, 1 Ei, gedünstete Zwiebel+Paprika
 
