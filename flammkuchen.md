@@ -4,16 +4,14 @@ Menge für 1 Backblech (2-3 Personen)
 ## Teig Zutaten
 Hefeteig
 * 1/3 Würfel Hefe (14g)
-* 30ml Wasser
-
-
+  * 30ml Wasser
 * 200g (-250g) Mehl
 * 1 TL Salz
 * 100ml Wasser
 * 1 EL Olivenöl
 
 ## Teig Zubereitung
-* Hefe in 30ml lauwarmem Wasser verrühren und 10min stehen lassen
+* Hefe in 30ml lauwarmem Wasser verrühren und bis 10min stehen lassen
 * Mehl mit Salz in Schüssel vermischen, Vertiefung (bis Boden) in der Mitte für Hefe
 * Hefe in Vertiefung giessen und mit etwas Mehl zu dünnem Brei vermischen
 * 15min stehen lassen (es gibt dann schon Gasblasen)
@@ -36,17 +34,18 @@ Hefeteig
 * Gewürze: Salz, Pfeffer, Muskatnuss, etwas gehackter Thymian und Rosmarin
 
 ## Auflage Zubereitung
-* Zwiebeln und Knoblauch in Butter langsam andünsten
+* Zwiebeln und Knoblauch in Butter langsam andünsten (darf nicht braun werden)
 * Bauchspeck zugeben und glasig düsten
 * Abkühlen lassen
 * Mit Sahne und saurer Sahne verrühren und Gewürze zugeben
 
 ## Zubereitung
 * Ofen auf 250°C vorheizen
-* Teig auf gemehlter Arbeitsplatte auf 2-3mm Dicke beidseitig auswellen
 * Backblech mit Olivenöl leicht einfetten
+* Teig auf gemehlter Arbeitsplatte auf 2-3mm Dicke beidseitig auswellen
 * Teig auf Backblech geben, dabei keinen Teigrand machen
 * Auflage auf Teig verteilen
 * 10-12min backen
-  * Teig mit Auflage wirft manchmal blasen. Auflage darf nur hellbraun werden
+  * Teig mit Auflage wirft manchmal Blasen. 
+  * Auflage darf nur hellbraun werden. Teig kann am Rand schon leicht braun werden.
 
