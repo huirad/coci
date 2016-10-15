@@ -1,7 +1,7 @@
 # Vietnamesische Kokosschnitten "Fuchsjagd" 
 [Original-Rezept](http://gruengewinnt.de/doktordoko/dokomenue/rfuchsjagd.htm)
 
-## Zutaten für ein Blech
+## Zutaten
 * 100g Cashewnüsse
 * 50g kandierter Ingwer
 * 50g Zitronat
@@ -13,6 +13,7 @@
 * 1/2TL Zimt
 * 1 Ei
 * Butter
+* 2h Zeit
 
 ## Zubereitung
 * Cashewnüsse, Ingwer, Zitronat klein hacken
