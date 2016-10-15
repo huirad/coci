@@ -15,20 +15,15 @@
 
 #
 * Pfannkuchen
-* Quinoafrikadellen
 
 #
-* Flammkuchen, Zwiebelkuchen
+* Zwiebelkuchen
 
 #
 * Kartoffelsalat
 
 #
 * Kaiserschmarrn
-
-#
-* Vietnamesische Kokosschnitten
-
 
 
 * Manni's Eis (07. Mai 2005, Cannstatter Hütte): Vanilleeis, Pinienkerne, frische Minzeblätter, Kürbiskernöl
