@@ -6,8 +6,8 @@
 * 2 Stängel Zitronengras
 * Butter/Öl
 * 500-750 ml Brühe (soll Kürbis im Topf gerade bedecken)
-* 1/2 Bund 	frischer Koriander
-* Optional: Maggikraut und Rosmarin, Crème fraîche
+* Optional: Maggikraut und Rosmarin, Muskat, Crème fraîche
+* Obendrauf nach Wahl: Croutons, Schnittlauch, Kürbisöl, Kürbiskerne, ...
 
 ## Zubereitung
 * Kürbis in Würfel schneiden
