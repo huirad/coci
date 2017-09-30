@@ -9,6 +9,7 @@ Menge für 4 Personen
 * ordenlich viel Basilikum
 * 1 Chilischote, kleingeschnitten
 * Olivenöl, Salz, Pfeffer
+
 Und zum Mitgaren
 * kleine neue Kartoffeln
 * Canellini Bohnen (1 kleine Dose)
