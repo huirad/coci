@@ -3,7 +3,7 @@
 ## Zutaten
 * 200g Dinkelmehl
 * 125ml Milch
-* 4 Eier, gwetrennt
+* 4 Eier, getrennt
 * 80g Zucker
 
 Karamell
@@ -19,7 +19,7 @@ Deko
 ## Zubereitung
 * Eigelb mit Zucker, dann portionsweise Mehl und Milch dazu verühren bis der Teig glatt wird. 
 * Optional: Teig bis 30min gehen lassen (aber wer macht das schon auf der Berghütte?).
-* Eiweis steif schlagen und untermischen
+* Eiweiß steif schlagen und untermischen
 * Ein Stück Butter(schmalz) in beschichtete Pfanne auf knapp mittlerer Hitze
 * Teig einfüllen und backen; die oberste Schicht soll noch nicht stocken
 * Vierteln, wenden, etwas weiterbacken, zerrupfen
