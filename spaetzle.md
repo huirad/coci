@@ -15,9 +15,9 @@
 * Reichlich Salzwasser (ggf. mit ein paar Tropfen Öl) zum Kochen bringen
 * Spätzle in das kochende Wasser schaben oder drücken
 * Sobald die Spätzle aufschwimmen sind sie fertig: 
-** Mit Schaumlöffel entnehmen
-** Damit sie nich kleben: kurz in kaltem Wasser schwenken oder mit heissem Wasser übergiessen
-** Nicht zu lange kochen lassen, sonst werden sie klebrig
+  * Mit Schaumlöffel entnehmen
+  * Damit sie nich kleben: kurz in kaltem Wasser schwenken oder mit heissem Wasser übergiessen
+  * Nicht zu lange kochen lassen, sonst werden sie klebrig
 
 ### Tip
 * Spätzle in lauwarmen Wasser warmhalten

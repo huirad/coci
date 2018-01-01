@@ -12,14 +12,14 @@
 ## Zubereitung Teig
 * Eiweiss steif schlagen
 * Mit Puderzucker verrühren (nicht mehr schlagen - 2min Handrührer)
-** Eiweissmasse muss glatt verlaufen, falls zu steif: etwas laufwarmem Wasser unterrühren
+  * Eiweissmasse muss glatt verlaufen, falls zu steif: etwas laufwarmem Wasser unterrühren
 * Geriebene Mandeln mit Gewürzen vermischen
 * Soviel Eiweissmasse zugeben, bis der Teig weich und ausrollbar ist
-** restliches Eiweiss für Glasur aufheben
+  * restliches Eiweiss für Glasur aufheben
 * Teig mit wenig Druck auf ca 3mm Dicke ausrollen
-** Teig soll dazu gut rutschen können - ggf zwischen 2 Backpapierbögen
+  * Teig soll dazu gut rutschen können - ggf zwischen 2 Backpapierbögen
 * Sterne ausstechen und mit Eiweissmasse glasieren
-** 1 Klecks vom Kaffeelöffel
+  * 1 Klecks vom Kaffeelöffel
 
 ## Backen
 * Backofen: 170°C Ober-/Unterhitze auf zweitunterster Schiene
