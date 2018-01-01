@@ -1,10 +1,10 @@
 #Spätzle
 
 ## Zutaten
-* 500g Mehl
-* 4 Eier
-* 1-2 TL Salz
-* 250ml Wasser
+* 250g Mehl
+* 2 Eier
+* knapp 1 TL Salz
+* 125ml Wasser
 
 ## Zubereitung
 ### Teig
@@ -15,8 +15,13 @@
 * Reichlich Salzwasser (ggf. mit ein paar Tropfen Öl) zum Kochen bringen
 * Spätzle in das kochende Wasser schaben oder drücken
 * Sobald die Spätzle aufschwimmen sind sie fertig: 
- * Mit Schaumlöffel entnehmen, ggf. in kurz in kaltem Wasser schwenken
+ * Mit Schaumlöffel entnehmen
+ * Damit sie nich kleben: kurz in kaltem Wasser schwenken oder mit heissem Wasser übergiessen
  * Nicht zu lange kochen lassen, sonst werden sie klebrig
 
 ### Tip
 * Spätzle in lauwarmen Wasser warmhalten
+
+
+### Alternative
+* 100g Mehl durch Amaranth- oder Rote-Linsen-Mehle ersetzen
