@@ -34,3 +34,22 @@
 * Mit Quinoa mischen, Karotten dazu, würzen
 * Mit Eiern vermengen
 * Bratlinge formen und in Pfanne ausbraten
+
+# Tomatensuppe mit Quinoa
+
+## Zutaten
+* 75g Quinoa
+* 300ml Gemüsebrühe
+* 1 Zwiebel, gehackt
+* 1 Dose stückige Tomaten
+* Kräuter und Gewürze nach Wahl
+  * z.B. Lorbeer, Zitronengras, Liebstöckel, Cajun-Gewürzmischung, Salz
+* Öl oder Butter oder Butterschmalz
+
+## Zubereitung
+* Quinoa in heissem Wasser abbrausen, um Bitterstoffe zu entfernen, abtropfen lassen
+* Quinoa mit Gemüsebrühe ca 15min köcheln
+* In einem anderen Topf
+  * Zwiebel andünsten, ggf. Lorbeer, Zitronengras mitdünsten
+  * stückige Tomaten dazu, mit weiteren Gewürzen köcheln lassen bis der Quinoa fertig ist
+* Inhalt beider Töpfe zusammengeben
