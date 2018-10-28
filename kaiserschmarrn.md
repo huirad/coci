@@ -11,12 +11,14 @@ Falls keine Waage zur Hand: 1-2-3 Regel
 
 Karamell
 * 40g Zucker
-* Rosinen, Mandelsplitter
+* Mandelsplitter
 
 Backfett
 * Butterschmalz oder Butter
 
-Deko
+Beilage
+* Apfelmus
+* Rosinen oder Presselbeeren oder Johannisbeeren oder ...
 * Puderzucker
 
 ## Teig
@@ -27,22 +29,26 @@ Deko
 
 ## Ausbacken
 * Ein Stück Butter(schmalz) in beschichtete Pfanne auf (knapp?) mittlerer Hitze, bis die Butter zu schäumen beginnt
-* Teig einfüllen und backen - lieber auf 2 Pfannen verzeilen
-** die oberste Schicht soll noch nicht stocken und die unterste nicht anbrennen
+* Teig einfüllen und backen - am besten auf 2 Pfannen verteilen (falls nacheinander: 1. Schicht im Backofen warm halten!)
+  * die oberste Schicht soll noch nicht stocken und die unterste nicht anbrennen
 * Vierteln, wenden, etwas weiterbacken, zerrupfen
-* Etwas Platz schaffen und dort den Zucker Butter(schmalz), Rosinen und Mandeln karamelisiern lassen
+* Etwas Platz schaffen, in Butter(schmalz) den Zucker mit Rosinen und Mandeln karamelisieren lassen
 
 ## Servieren
-* Puderzucker!
+* Rosinen oder Beeren
+* Puderzucker drüber!
+* Apfelmus als Beilage
 
-## Anmerkungen 
+## Tipps und Anmerkungen 
 * Ob das Eigelb zuerst oder zuletzt in den Teig kommt, ist wohl Ansichtssache.
 * Luft in den Teig bringt man ausser duch den Eischnee auch durch Verquirlen des Teigs und Sieben des Mehls
 * Optional den Pfannendeckel beim Backen drauf. Das hält ein wenig die Feuchtigkeit.
 
 ## Profitipp: Schummelschmarrn mit Oberhitze
-Je nach Pfanne ist es nicht ganz einfach, so zu backen, dass der Teig oben stockt und unten nicht anbrennt. In diesem Fall:
-* Backofen auf 180 Grad vorheizen, Ober- (und ggf Unterhitze)
+Je nach Pfanne ist es nicht ganz einfach, so zu backen, dass der Teig oben stockt und unten nicht anbrennt.
+Vor allem wenn die gesamte Teigmenge auf einmal gebacken werden soll.
+In diesem Fall:
+* Backofen auf 180-200 Grad vorheizen, Ober- (und ggf Unterhitze)
 * Pfanne gleich nach Einfüllen des Teigs in den Backofen stellen
 * Dort solange backen, bis der Teig oben stockt
-* Dann weiter wie oben
+* Dann weiter wie oben - am einfachsten auf dem Herd
