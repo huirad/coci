@@ -5,16 +5,17 @@
 * 50g Zucker
 * 120g Mehl
 * 140ml Milch
+* optional in den Teig: 1 Muggeseggele Salz
 
-Falls keine Waage zur Hand: 1-2-3 Regel
-* Pro Ei: 1EL Zucker (gestrichen: je 12g), 2 EL Mehl (gehäuft: je 15-20g), 3 EL Milch (je 12ml)
+Falls keine Waage zur Hand: Ei-1-2-3-4 Regel
+* Pro Ei: 1 EL Zucker (gestrichen: je 12g), 2 EL Mehl (gehäuft: je 15-20g), 3-4 EL Milch (je 12ml)
 
 Karamell
 * 40g Zucker
 * Mandelsplitter
 
 Backfett
-* Butterschmalz oder Butter
+* Butter oder Butterschmalz
 
 Beilage
 * Apfelmus
@@ -29,9 +30,12 @@ Beilage
 
 ## Ausbacken
 * Ein Stück Butter(schmalz) in beschichtete Pfanne auf (knapp?) mittlerer Hitze, bis die Butter zu schäumen beginnt
-* Teig einfüllen und backen - am besten auf 2 Pfannen verteilen (falls nacheinander: 1. Schicht im Backofen warm halten!)
+* Teig einfüllen und backen - nicht zu viel Teig: max. ca. 1,5cm hoch
+  * am besten auf 2 Pfannen verteilen (falls nacheinander: 1. Schicht im Backofen warm halten!)
   * die oberste Schicht soll noch nicht stocken und die unterste nicht anbrennen
-* Vierteln, wenden, etwas weiterbacken, zerrupfen
+* Vierteln, wenden, etwas weiterbacken 
+  * evtl jetzt schon etwas Zucken zum karamelisieren dazu
+* zerrupfen
 * Etwas Platz schaffen, in Butter(schmalz) den Zucker mit Rosinen und Mandeln karamelisieren lassen
 
 ## Servieren
