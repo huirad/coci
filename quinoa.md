@@ -2,13 +2,13 @@
 
 ## Zutaten
 * 200g Quinoa
-* 500ml Gemüsebrühe
+* 450ml Gemüsebrühe
 * 1 Zwiebel, Knoblauch
 * optional: Lorbeer
 * Olivenöl
 
 ## Zubereitung
-* Quinoa in heissem Wasser abbrausen, um Bitterstoffe zu entfernen, abtropfen lassen
+* Quinoa in Wasser abbrausen, um Bitterstoffe zu entfernen, abtropfen lassen
 * Zwiebel, Knoblauch, Lorbeer in Öl dünsten; Lorbeer wieder raus
 * Quinoa dazu, mit Gemüsebrühe auffüllen
 * 20min köcheln lassen (soll die Brühe ganz aufnehmen)
