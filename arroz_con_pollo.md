@@ -1,5 +1,7 @@
 # Arroz con Pollo (Eintopf)
 
+Cocinero jefe: [Antonio Tuesta](https://www.youtube.com/watch?v=ZZGP1dTdFb4)
+
 Para 9 personas. 
 
 Pfanne, grosser Topf!
@@ -38,21 +40,12 @@ Pfanne, grosser Topf!
 8. sirva caliente 
 
 
-
 ## Otros verbos
 * cortar (schneiden)
 * pelar (schälen)
 * vertir, añadir, agregar (zugeben)
 * colocar (stellen)
 
-## Siehe auch:
-* http://www.deperu.com/recetas-cocina/receta.php?rec_coc=49
-* http://www.mis-recetas.org/recetas/show/897-pollo-con-arroz-receta-peruana (mit Youtube Video)
-* http://cocinaperuana-kalejo.blogspot.com/2009/10/arroz-con-pollo-con-zapallito-loche.html
-* http://yanuq.com/buscador.asp?idreceta=889
-* http://cocinadelmundo.com/receta-ARROZ-CON-POLLO-5
-* http://www.gastronomiaperu.com/recetas.de.cocina/receta.php?d=392
-* http://www.google.de/search?q=Arroz+con+Pollo+peru+cerveza+negra 
 
 # Pisco sour
 Pisco, hielo, limon (Limette), jarabe de coma (Zuckersirup), huevo (claro), canela (Zimt)
