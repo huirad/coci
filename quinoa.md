@@ -1,5 +1,11 @@
 # Quinoa
 
+Generell sollte man den Quinoa waschen, um die Bitterstoffe zu entfernen.
+* Oft reicht es aus, den Quinoa einfach abzubrausen
+* Sorgfältiger wäre die Methode von Maribel
+  * Im Wasser einweichen lassen und mit den Händen reiben - das trübe Wasser ggf ein paar mal wechseln
+  * Dann noch 1-2 mal ganz kurz aufkochen und das schaumige Wasser wegschütten
+
 ## Zutaten
 * 200g Quinoa
 * 450ml Gemüsebrühe
