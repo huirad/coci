@@ -40,6 +40,7 @@ Beilage
 
 ## Servieren
 * Rosinen oder Beeren
+  * Heidi Ducke, 14.06.2019: In an echta Kaiserschmarrn g'höret in Rum ei'glegte Ziebebe.
 * Puderzucker drüber!
 * Apfelmus als Beilage
 
