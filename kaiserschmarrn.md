@@ -6,6 +6,8 @@
 * 120g Mehl
 * 140ml Milch
 * optional in den Teig: 1 Muggeseggele Salz
+* Rosinen
+  * Heidi Ducke, 14.06.2019: In an echta Kaiserschmarrn g'höret in Rum ei'glegte Zibebe.
 
 Falls keine Waage zur Hand: Ei-1-2-3-4 Regel
 * Pro Ei: 1 EL Zucker (gestrichen: je 12g), 2 EL Mehl (gehäuft: je 15-20g), 3-4 EL Milch (je 12ml)
@@ -19,12 +21,13 @@ Backfett
 
 Beilage
 * Apfelmus
-* Rosinen oder Presselbeeren oder Johannisbeeren oder ...
+* Rosinen oder Presselbeeren oder Johannisbeeren oder ...(falls nicht schon im Teig)
 * Puderzucker
 
 ## Teig
 * Eier trennen!
 * Eigelb mit Zucker, dann portionsweise Mehl und Milch dazu verquirlen (Schneebesen!), bis der Teig glatt wird. 
+  * Rosinen ggf schon jetzt in den Teig
 * Optional: Teig 15min bis 30min gehen lassen (aber wer macht das schon auf der Berghütte?).
 * Eiweiß steif schlagen und untermischen
 
@@ -40,7 +43,6 @@ Beilage
 
 ## Servieren
 * Rosinen oder Beeren
-  * Heidi Ducke, 14.06.2019: In an echta Kaiserschmarrn g'höret in Rum ei'glegte Ziebebe.
 * Puderzucker drüber!
 * Apfelmus als Beilage
 
