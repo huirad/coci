@@ -9,12 +9,7 @@
 #
 * Spätzle Anwendungen: Linsen mit Spätzle, Gaisburger Marsch, ....
 
-#
-* Indien
-* Vietnam
 
-#
-* Pfannkuchen
 
 #
 * Zwiebelkuchen
