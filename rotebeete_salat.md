@@ -14,6 +14,6 @@
 
 ## Zubereitung
 * Rote Beete in Salzwasser mit ca 2 geh TL Kümmel abkochen.
-    * Ca 1h bis die sie weich sind 
+    * Ca 1h bis sie weich sind - mit Messer antesten!
 * In kaltem Wasser abkühlen lassen und dann in kleine Würfel schneiden
 * Dressing gut untermischen und mehrere Stunden ziehen lassen
