@@ -1,7 +1,7 @@
 # Nudelteig
 
 Im Prinzip sollte das ganz einfach sein.
-So ähnlich wie ein Spätzletig, nur deutlich weniger Wasser, damit er nicht klebt.
+So ähnlich wie ein Spätzleteig, nur deutlich weniger Wasser, damit er nicht klebt.
 
 
 ## Zutaten
@@ -26,7 +26,7 @@ So ähnlich wie ein Spätzletig, nur deutlich weniger Wasser, damit er nicht kle
 
 ### Tips
 * Wirklich! ausdauernd ca 10min kneten!
-* Eier nicht direkt auis dem Kühlschrank, sondern vorher auf Raumtemperatur gebracht
+* Eier nicht direkt aus dem Kühlschrank, sondern vorher auf Raumtemperatur gebracht
 * Eier ggf vorher (mit etwas Wasser) verquirlen, dann gibt es weniger Klumpen
 
 ## Varianten

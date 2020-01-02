@@ -13,21 +13,21 @@
 * 1/2TL Zimt
 * 1 Ei
 * Butter
-* 2h Zeit
+
 
 ## Zubereitung
 * Cashewnüsse, Ingwer, Zitronat klein hacken
-* Orange auspressen - es werden 50ml saft benötigt
+* Orange auspressen - es werden 50ml Saft benötigt
 * Kokosraspel, Zucker, Orangensaft in 250ml Wasser einmal aufkochen
-* Maisgrieß einrühren und 20min bei sehr schwacher Hitze ausquellen lassen
+* Maisgrieß einrühren und 20min bei sehr schwacher Hitze ausquellen lassen (Topf von der Platte ziehen)
 * Cashewnüsse, Ingwer, Zitronat, Kardamom, Zimt einrühren
 * die Masse kalt stellen
 * das Ei trennen und das Eigelb unter den Teig ziehen
 * Eiweis zu Eischnee steif schlagen und unterheben
-* Backofen vorheizen auf 200°C (Umluft 180°C)
+* Backofen vorheizen auf 180°C
 * runde Tortenform mit Butter einfetten
 * Grieß-Kokos-Masse 1,5cm hoch in die Tortenform streichen
-* auf mittlerer Schiene im Backofen 1h30min backen bzw trocknen
+* auf mittlerer Schiene im Backofen ca 1h backen bzw trocknen
 * herausnehmen und abkühlen lassen
 * anschließend - wer hätte das gedacht - in rauten/karoförmige Stücke schneiden
 
