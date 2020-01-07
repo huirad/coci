@@ -3,7 +3,7 @@
 ## Zutaten
 * 1 Rote Beete, ca  8 bis 10 cm Durchmesser
 * Dressing
-    * 2 geh EL brauner Zucker
+    * 2 geh EL brauner Zucker oder Ahornsirup
     * 1 TL Salz + 1 TL Aromat
     * 1 TL Senf + 1 TL Wasabi
     * 1 TL gemahlener Anis und etwas gemahlener Pfeffer
