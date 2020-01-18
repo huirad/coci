@@ -1,7 +1,7 @@
-# Schupfnudeln
+# Kartoffel-Schupfnudeln
 
 ## Zutaten
-* 750g Kartoffen (z.B. Marabel "vorwiegend festkochend" - ggf. auch eine mehligkochende Sorte)
+* 750g Kartoffeln (z.B. Marabel "vorwiegend festkochend" - ggf. auch eine mehligkochende Sorte)
 * 125g Mehl
 * 2 Eier
 * Salz
@@ -28,3 +28,19 @@ Optional für Semmelbrösel
 Optional für Semmelbrösel
 * Zwiebel schneiden (kleine Ringe) und in Butter glasig dünsten
 * Semmelbrösel dazu geben und anrösten
+
+
+# Fingernudeln fast wie aus Kallmünz
+super einfach, super schnell
+
+## Zutaten
+* 100g Mehl (ein drittel Gries, der Rest normales Mehl)
+* 1 Prise Salz
+* 1 Schucker Öl
+* 60-70ml Wasser
+
+## Zubereitung
+* Teig 5-10min kneten bis er noch elastisch ist, aber nicht mehr klebt
+* Teig abzupfen, zu kleinfingergrosser Nudel rollen
+* In Salzwasser 10min kochen
+* später in der Pfanne anbraten
