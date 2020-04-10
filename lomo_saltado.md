@@ -1,11 +1,12 @@
 # Lomo Saltado
 Peru, Peru, wir fahren nach Peru!
 
-## Beilage (vorher machen, damit kein Stress aufkommt)
+## Beilage
+(vorher machen, damit kein Stress aufkommt)
 * Reis und/oder frittierte Kartoffeln
 
 ## Zutaten (2 Portionen)
-* 300g Rinderfilet - in Streifen geschnitten
+* 300g Rinderhüfte oder Rinderfilet - in Streifen geschnitten
 * 1 rote Zwiebel - in grobe Schnitze geschnitten
 * 1 Knoblauchzehe - kleingehackt
 * 1 Paprika - in grobe Schnitze geschnitten
