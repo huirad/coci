@@ -1,7 +1,7 @@
 # Kefta
 
 ## Zutaten 
-* 250g Hackfleisch für ca 20 Hackbällchen
+* 250g Hackfleisch für ca 12 Hackbällchen
 * 1 kleine rote Zwiebel
 * 1 Stück frischer Ingwer
 * Koriandergrün
