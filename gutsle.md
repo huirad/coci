@@ -22,7 +22,7 @@
   * 1 Klecks vom Kaffeelöffel
 
 ## Backen
-* Backofen: 170°C Ober-/Unterhitze auf zweitunterster Schiene
+* Backofen: 150°C Ober-/Unterhitze auf zweitunterster Schiene
 * Dauer: bis Sterne leicht beige sind
 
 
