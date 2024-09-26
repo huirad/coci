@@ -30,13 +30,13 @@ Optional für Semmelbrösel
 * Semmelbrösel dazu geben und anrösten
 
 
-# Fingernudeln fast wie aus Kallmünz
+# Fingernudeln fast wie Bauchstecherla aus Kallmünz
 super einfach, super schnell
 
 ## Zutaten
-* 100g Mehl (ein drittel Gries, der Rest normales Mehl)
+* 100g Mehl (entweder Spätzlemehl = "Grießler" oder ein drittel Gries, der Rest normales Mehl)
 * 1 Prise Salz
-* 1 Schucker Öl
+* 1 Schucker Öl (optional)
 * 60-70ml Wasser
 
 ## Zubereitung
