@@ -11,6 +11,8 @@
 
 Falls keine Waage zur Hand: Ei-1-2-3-4 Regel
 * Pro Ei: 1 EL Zucker (gestrichen: je 12g), 2 EL Mehl (gehäuft: je 15-20g), 3-4 EL Milch (je 12ml)
+  * Also: pro Ei 40g Mehl, 10g Zucker, 50-60ml Milch 
+  * Mai 2024: 20 Eier, 800g Mehl, 140g Zucker, 1l Milch || 30 Eier, 1200g Mehl, 200g Zucker, 1,5-1,8l Milch
 
 Karamell
 * 40g Zucker
