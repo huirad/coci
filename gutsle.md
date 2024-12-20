@@ -27,7 +27,7 @@
 
 
 # Vanillekipferl
-2 Bleche
+1 dicht belegtes Blech
 
 ## Zutaten
 * 280g Mehl (Type 405/550; glattes Mehl - geht aber auch mit Spätzlemehl)
@@ -45,10 +45,10 @@
 * 2h kühl stellen
 
 ## Backen
-* Backofen: 180°C Ober-/Unterhitze
+* Backofen: 180°C Ober-/Unterhitze auf zweitunterster Schiene
 * Teig zu Rollen formen, *kein* Mehl auf Arbeitsplatte!
 * kleine Stücke abschneiden und zu Kipferln formen
-* Auf Backblech mit Backpapier ca 8-10min backen, bis Spitzen und Unterseiten leicht gebräunt sind
+* Auf Backblech mit Backpapier ca 15-20min backen, bis Spitzen und Unterseiten leicht gebräunt sind
 * Mit Papier vom Blech ziehen und noch heiß mit Vanillezucker bestreuen
 * In Blechdose aufbewahren
 
