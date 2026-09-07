@@ -61,3 +61,8 @@ In diesem Fall:
 * Pfanne gleich nach Einfüllen des Teigs in den Backofen stellen
 * Dort solange backen, bis der Teig oben stockt
 * Dann weiter wie oben - am einfachsten auf dem Herd
+
+## August 2026: Kaiserschmarrn aus Tirol
+In Tirol trennt man die Eier nicht!
+Zum Treiben: Margarine! Deckel drauf!
+3 Eier pro Portion. Als Mehl ggf Wiener Griessler.
